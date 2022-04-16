@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Personalized Nutrition Plan",
+        "price": "500",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "name": "Personalized Exercise Program",
+        "price": "1000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": ""
+    },
+    {
+        "id": 3,
+        "name": "Individual Routine Program",
+        "price": "750",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": ""
+    },
+    {
+        "id": 4,
+        "name": "Quick Fat Reduce plan",
+        "price": "900",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": ""
+    },
+    {
+        "id": 5,
+        "name": "Chest Building plan",
+        "price": "600",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": ""
+    },
+    {
+        "id": 6,
+        "name": "Full Month Counselling and training",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": ""
+    }
+]
