@@ -3,6 +3,8 @@ import './App.css';
 import About from './Pages/About/About';
 import CheckOut from './Pages/CheckOut/CheckOut';
 import Home from './Pages/Home/Home/Home';
+import LogIn from './Pages/LogIn/LogIn/LogIn';
+import Register from './Pages/LogIn/Register/Register';
 import RequiredAuth from './Pages/LogIn/RequireAuth/RequiredAuth';
 import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
@@ -22,8 +24,8 @@ function App() {
           </RequiredAuth>
         }></Route>
         <Route path='/about' element={<About></About>}></Route>
-        <Route path='/login' element={<Home></Home>}></Route>
-        <Route path='/register' element={<Home></Home>}></Route>
+        <Route path='/login' element={<LogIn></LogIn>}></Route>
+        <Route path='/register' element={<Register></Register>}></Route>
         <Route path='*' element={<NotFound></NotFound>}></Route>
       </Routes>
       <Footer></Footer>
