@@ -1,17 +1,17 @@
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-import { getAuth } from 'firebase/auth';
+import { getAuth } from "firebase/auth";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBjk8Y381W_XkNftmSBS_ZSeBy5D8S08jA",
-    authDomain: "cars-repairs-bd.firebaseapp.com",
-    projectId: "cars-repairs-bd",
-    storageBucket: "cars-repairs-bd.appspot.com",
-    messagingSenderId: "191914462410",
-    appId: "1:191914462410:web:39d4a942008a98eda53833"
+    apiKey: "AIzaSyD_6eK1NuR4LOVfr9dvFd34vUGwOqPYUCs",
+    authDomain: "build-your-body-e2805.firebaseapp.com",
+    projectId: "build-your-body-e2805",
+    storageBucket: "build-your-body-e2805.appspot.com",
+    messagingSenderId: "93732830976",
+    appId: "1:93732830976:web:4ac136a08f9f6a839cbde5"
 };
 
 // Initialize Firebase

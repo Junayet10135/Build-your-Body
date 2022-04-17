@@ -5,10 +5,10 @@ import CheckOut from './Pages/CheckOut/CheckOut';
 import Home from './Pages/Home/Home/Home';
 import LogIn from './Pages/LogIn/LogIn/LogIn';
 import Register from './Pages/LogIn/Register/Register';
-import RequiredAuth from './Pages/LogIn/RequireAuth/RequiredAuth';
 import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
 import NotFound from './Pages/Shared/NotFound/NotFound';
+import RequiredAuth from './Pages/LogIn/RequiredAuth/RequiredAuth'
 
 function App() {
   return (
