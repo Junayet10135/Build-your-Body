@@ -8,7 +8,7 @@ const CheckOut = () => {
 
     const handleCheckOut = async(event)=>{
         event.preventDefault();
-        toast('Your form Submitted');
+        toast('Your checkout form Submitted');
 
     }
     return (
