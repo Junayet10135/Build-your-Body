@@ -10,7 +10,7 @@ import githubIcon from '../../../Images/SocialLogInIcon/githubIcon.png'
 
 
 const SocialLogIn = () => {
-    const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth);
+    const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth, { sendEmailVerification: true });
     const [signInWithGithub, user1, loading1, error1] = useSignInWithGithub(auth);
     const navigate = useNavigate();
     const location = useLocation();
