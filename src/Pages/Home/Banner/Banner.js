@@ -31,8 +31,8 @@ const Banner = () => {
                 />
 
                 <Carousel.Caption>
-                    <h3>Health Is wealth</h3>
-                    <p>Food Habit is more important than exercise</p>
+                    <h3 className='text-dark'>Health Is wealth</h3>
+                    <p className='text-dark'>Food Habit is more important than exercise</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>

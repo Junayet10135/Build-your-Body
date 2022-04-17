@@ -23,7 +23,7 @@ const Blogs = () => {
                     Firebase is user-friendly and also gives you the best security, users can be authenticated without any complexities. <br />
                     Firebase is mostly used for authentication because of its security level. <br />
                     There is some top alternate third party option that we have for authentication: <br />
-                    MongoDB, AuthO, passport, and Okta are now top alternatives if you don't want to use firebase authentication. 
+                    <strong>MongoDB</strong>, <strong>AuthO</strong>, <strong>passport</strong>, and <strong>Okta</strong> are now top alternatives if you don't want to use firebase authentication. 
                 </p>
             </div>
             <div>

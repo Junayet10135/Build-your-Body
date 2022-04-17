@@ -21,11 +21,12 @@ const Header = () => {
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
+
+                        </Nav>
+                        <Nav>
                             <Nav.Link href="home#services">Services</Nav.Link>
                             <Nav.Link href="home#clients">Clients</Nav.Link>
                             <Nav.Link href="blogs">Blogs</Nav.Link>
-                        </Nav>
-                        <Nav>
                             <Nav.Link as={Link} to="about">About</Nav.Link>
                             {
                                 user ?
@@ -36,7 +37,9 @@ const Header = () => {
                                     </Nav.Link>}
                         </Nav>
                     </Navbar.Collapse>
+                    
                 </Container>
+                <h6 className='text-light me-4'>{user?.displayName}</h6>
             </Navbar>
         </div>
     );
