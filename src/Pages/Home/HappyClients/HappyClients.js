@@ -13,7 +13,7 @@ const clients = [
 const HappyClients = () => {
     return (
         <div id='clients' className='container text-center mb-5'>
-            <h2>Happy Clients</h2>
+            <h2 className='section-title p-2 '>Happy Clients</h2>
             <div className='row'>
                 {
                     clients.map(client => <HappyClient

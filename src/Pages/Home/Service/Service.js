@@ -15,8 +15,8 @@ const Service = ({ service }) => {
             <img src={img} className="card-img-top" alt="..." />
             <div className="card-body text-start">
                 <h5 className="card-title">{name}</h5>
-                <p className="card-text">Price: {price}</p>
-                <button onClick={() => handleServiceId(id)} className='btn btn-primary d-block mx-auto'> Wanna book? <small>{name}</small></button>
+                <p className="card-text"><strong>Price:</strong> {price}</p>
+                <button onClick={() => handleServiceId(id)} className='button d-block mx-auto'> Wanna book? <small>{name}</small></button>
             </div>
 
         </div>

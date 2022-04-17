@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "name": "Personalized Nutrition Plan",
+        "name": " Nutrition Plan",
         "price": "500",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
         "img": "https://cutt.ly/LFXTUH2"
     },
     {
         "id": 2,
-        "name": "Personalized Exercise Program",
+        "name": " Exercise Program",
         "price": "1000",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
         "img": "https://cutt.ly/UFXYcG9"
@@ -36,7 +36,7 @@
     },
     {
         "id": 6,
-        "name": "Full Month Counselling and training",
+        "name": "Full Month Counselling ",
         "price": "3000",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
         "img": "https://cutt.ly/hFXIcVH"
