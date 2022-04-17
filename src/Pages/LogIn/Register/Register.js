@@ -87,7 +87,7 @@ const Register = () => {
                 </Button>
             </Form>
             <div className='text-center mt-5'>
-                <p>Lready Have an account? <Link to='/login' className='text-danger pe-auto text-decoration-none ' onClick={navigateLogin}>Please LogIn</Link></p>
+                <p>Aready Have an account? <Link to='/login' className='text-danger pe-auto text-decoration-none ' onClick={navigateLogin}>Please LogIn</Link></p>
             </div>
             {errorElement}
             <SocialLogIn></SocialLogIn>

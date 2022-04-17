@@ -1,0 +1,12 @@
+.my-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.my-pic img {
+    width: 200px;
+    border-radius: 20px;
+}
